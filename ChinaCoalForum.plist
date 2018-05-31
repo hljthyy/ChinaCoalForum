@@ -12,7 +12,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://58.16.86.10:9090/apk/IBDPGZ.ipa</string>
+                        <string>https://shuangchuang.chinacoal.mobi:8081/download/ChinaCoalForum/downfile/ChinaCoalForum.ipa</string>
                     </dict>
                     <dict>
                         <key>kind</key>
@@ -34,13 +34,13 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.cattsoft.IBDPGZ</string>
+                    <string>com.jhkj.ChinaCoalForum</string>
                     <key>bundle-version</key>
-                    <string>1.0</string>
+                    <string>1.0.2</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
-                    <string>贵州工业</string>
+                    <string>双创论坛</string>
                 </dict>
             </dict>
         </array>
